@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="edtx"> Enter the first number </string>
+    <string name="edtx2"> Enter the second number </string>
+
+
+</resources>
